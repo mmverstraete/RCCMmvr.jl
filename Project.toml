@@ -1,0 +1,7 @@
+name = "RCCMmvr"
+uuid = "a3a24272-cb52-4dac-a9fd-9c92b5b172ed"
+authors = ["Michel Verstraete <MMVerstraete@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
